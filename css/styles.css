@@ -35,6 +35,11 @@ body{
   font-family: 'Yusei Magic', sans-serif;
 }
 
+.front-page{
+  border-radius: 10%;
+height: 400px;
+  width:400px;
+}
 .bottom-cloud{
   position: absolute;
 bottom: 350px;
